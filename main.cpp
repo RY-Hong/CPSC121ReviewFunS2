@@ -1,4 +1,5 @@
 // this is a line of comment
+// this is a second line of comment
 
 #include "vecfuncs.h"
 
