@@ -1,3 +1,5 @@
+// this is a line of comment
+
 #include "vecfuncs.h"
 
 int main() {
@@ -9,5 +11,4 @@ int main() {
 
   findExtremes(userNums, min, max);
   cout << "min: " << min << " max: " << max << endl;
-  
 }
